@@ -1,0 +1,10 @@
+{
+  "CHECK_INTERVAL": 300,
+  "TARGET_USERS": [
+    "@username"
+  ],
+  "COOKIES": "__session_v2=YOUR_RAIDORI_COOKIE_STRING_HERE",
+  "TELEGRAM_TOKEN": "your_bot_token",
+  "TELEGRAM_CHAT_ID": "your_chat_id",
+  "SEED_FILE": "seed_ids.json"
+}
