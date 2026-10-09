@@ -1,0 +1,9 @@
+[project]
+name = "raidori-telegram-monitor"
+version = "0.1.0"
+description = "Asynchronous Python monitor for Raidori fanclubs. Tracks new articles via GraphQL and dispatches real-time Telegram notifications."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aiohttp>=3.9.0",
+]
